@@ -70,7 +70,7 @@
       "fan_status": 0,
       "inside_temp": 29.0,
       "is_auto_conditioning_on": false,
-      "is_climate_on": false,
+      "is_climate_on": true,
       "is_front_defroster_on": false,
       "is_preconditioning": false,
       "is_rear_defroster_on": false,
